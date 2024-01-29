@@ -18,3 +18,7 @@ Meanwhile, the compiled output files will be generated in the `bin` folder by de
 The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
 ### winner in EduSands Hacks
 https://youtu.be/tTz9aYijuBg
+### Output of this program
+
+### Login 
+![image](https://github.com/suba-12/Electric_bill_management_system/assets/108751443/f524e778-9db9-47d6-b3c1-06751da04420)
